@@ -41,7 +41,7 @@ jobs:
           SEAL_SNYK_URL: "https://api.snyk.io"
           SEAL_SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
           SEAL_SNYK_ORG_ID: "bf279eb4-3b32-4731-ba49-ea7588371789"
-          SEAL_SNYK_PROJECT_ID: "a59e2fa5-0bef-4b7d-999f-0e8c642109fe"
+          SEAL_SNYK_PROJECT_ID: "ef1d0e3a-d815-440b-8d73-dc59f4778fdd"
 
       - name: Start Application
         run: |
