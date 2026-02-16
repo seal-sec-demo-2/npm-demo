@@ -1,5 +1,5 @@
 {
-  "name": "seal-demo-project",
+  "name": "npm-demo",
   "version": "0.1.0",
   "description": "A demo repository of projects to try out the Seal app.",
   "main": "index.js",
